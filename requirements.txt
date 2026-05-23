@@ -1,0 +1,9 @@
+gradio
+flask==3.0.0
+joblib
+numpy==1.26.4
+pandas
+scikit-learn==1.6.1
+matplotlib
+seaborn
+gunicorn
